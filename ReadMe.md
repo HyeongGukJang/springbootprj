@@ -12,7 +12,7 @@ user.js의
 			email: $("#email").val()
 		};
     
-    이 부분이 정상인데 
+    위 부분이 정상인데 
     
     	save: function(){
 		//alert('user의 save함수 호출됨');
