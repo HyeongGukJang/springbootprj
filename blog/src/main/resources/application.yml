@@ -9,7 +9,7 @@ server:
     
 spring:
   mvc: 
-    view:
+    view:  
       prefix: /WEB-INF/views/
       suffix: .jsp
       
