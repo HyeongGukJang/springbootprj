@@ -13,7 +13,6 @@ import com.cos.blog.service.UserService;
 
 @RestController
 public class UserApiController {
-
 	@Autowired
 	private UserService userService;
 	

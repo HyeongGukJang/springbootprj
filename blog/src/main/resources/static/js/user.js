@@ -5,7 +5,7 @@ let index = {
 		});
 	},
 	
-	save: function(){
+	save: function(){ 
 		//alert('user의 save함수 호출됨');
 		let data = {
 			username: $("#username").val(),
