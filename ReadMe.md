@@ -25,4 +25,4 @@ user.js의
    			password: $("#password").val(),  ->	passwoord: $("#passoword").val(),
         
         패스워드의 오타 때문에 계속 에러발생한거였음...
-        장장 3시간 만에 찾아냄 ㅅㅂ 삽질 오지게 했네
+        장장 2시간 만에 찾아냄 ㅅㅂ 삽질 오지게 했네
