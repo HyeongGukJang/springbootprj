@@ -10,7 +10,7 @@
 			<label for="email">Email:</label> <input type="email" class="form-control" placeholder="Enter email" id="email">
 		</div>
 		
-		<div class="form-group">
+		<div class="form-group"> 
 			<label for="password">Password:</label> <input type="password" class="form-control" placeholder="Enter password" id="password">
 		</div>
 		
