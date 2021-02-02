@@ -25,8 +25,6 @@ user.js의
    			password: $("#password").val(),  ->	passwoord: $("#passoword").val(),
         
         패스워드의 오타 때문에 계속 에러발생한거였음...
-      	2시간 만에 찾아냄 ㅅㅂ 삽질 오지게 했네
-
 
 21.01.31
 Spring Security 를 이용해서 password를 해쉬화 하였다.
